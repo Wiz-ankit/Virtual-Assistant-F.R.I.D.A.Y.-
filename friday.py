@@ -6,6 +6,7 @@ import wikipedia
 import pyjokes
 import sys
 import webbrowser
+import spotify.sync as spotify
 from datetime import date
 
 engine=pyttsx3.init()
